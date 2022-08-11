@@ -13,7 +13,6 @@ const recProfile=require("./app/models/recruiter-profil")
 const canProfile = require("./app/models/cand-profile");
 const jobFav = require("./app/models/job-fav");
 const userid = "";
-const details = require("./details.json");
 
 
 

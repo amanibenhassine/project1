@@ -1,6 +1,6 @@
 {
   "name": "js-jwt-auth-mongodb",
-  "version": "1.0.0",
+  "version": "1.2.0",
   "description": "Node.js + MongoDB: JWT Authentication & Authorization",
   "main": "server.js",
   "scripts": {
@@ -14,7 +14,7 @@
     "authentication",
     "mongodb"
   ],
-  "author": "bezkoder",
+  "author": "amani",
   "license": "ISC",
   "dependencies": {
     "bcryptjs": "^2.4.3",
@@ -25,7 +25,6 @@
     "express": "^4.17.1",
     "jsonwebtoken": "^8.5.1",
     "mongoose": "^5.13.13",
-    "mongoose-unique-validator": "^3.0.0",
     "multer": "^1.4.3",
     "nodemailer": "^6.7.1"
   },
